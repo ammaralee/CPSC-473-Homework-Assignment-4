@@ -1,0 +1,34 @@
+{
+  "actors": [
+    {
+      "name": "Bryan Cranston",
+      "starred": false,
+      "id": 1
+    },
+    {
+      "name": "Aaron Paul",
+      "starred": true,
+      "id": 2
+    },
+    {
+      "name": "Bob Odenkirk",
+      "starred": false,
+      "id": 3
+    },
+    {
+      "name": "Dean Norris",
+      "starred": false,
+      "id": 4
+    },
+    {
+      "name": "Ammar Ali",
+      "starred": false,
+      "id": 5
+    },
+    {
+      "name": "Megan Bond",
+      "starred": true,
+      "id": 6
+    }
+  ]
+}
